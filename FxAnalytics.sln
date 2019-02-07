@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxAnalytics", "FxAnalytics\FxAnalytics.csproj", "{6F1B8B55-4ECD-4C35-95BF-C926E0C6FE97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnalytics", "FxAnalytics\DataAnalytics.csproj", "{6F1B8B55-4ECD-4C35-95BF-C926E0C6FE97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
